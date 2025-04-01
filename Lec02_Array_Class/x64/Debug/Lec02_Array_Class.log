@@ -1,0 +1,6 @@
+﻿  Complex.h
+  Lec02_Array.cpp
+  코드를 생성하고 있습니다...
+x64\Debug\car.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Lec02_Array.obj : error LNK2005: main이(가) car.obj에 이미 정의되어 있습니다.
+C:\Users\USER\Desktop\data-structure-lab-2025\Lec02_Array_Class\x64\Debug\Lec02_Array_Class.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
