@@ -1,0 +1,11 @@
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pch
+*.db
+copilot-chat/
+CopilotIndices/
+FileContentIndex/
